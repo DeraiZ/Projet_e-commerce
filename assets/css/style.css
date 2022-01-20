@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Blood Crow';
+    src: local('bloodcrow');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    background-color: #040404;
+}
+
+header{
+    background-color: #EF1C26;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-family:'Blood Crow';
+    color: white;
+    font-size: 50px;
+}
+
+.title-ligne2{
+    margin-left: 4vw;
+}
+
+form{
+    margin-top: 5vh;
+}
+
+.champ{
+    width: 40vw;
+    height: 30px ;
+    border-radius: 10px 0px 0px 10px;
+}
+
+
