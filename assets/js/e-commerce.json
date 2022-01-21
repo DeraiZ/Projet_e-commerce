@@ -1,53 +1,63 @@
 {
     "liste": "produit e-commerce",
     "article": [
-        {
+        {   
             "id": 1,
+            "name": "Katana Rengoku Kyojuro",
             "image": "https://img.search.brave.com/i29rSTytrSvUZluGYPEI3EbcrbxW7_sO_tFruWbKrdM/rs:fit:963:980:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzUxbER0TWNQZUFM/Ll9BQ19TTDEwMDBf/LmpwZw",
             "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Kyôjurô Rengoku"
         },
         {
             "id": 2,
+            "name": "Katana Kamado Tanjiro",
             "image": "https://img.search.brave.com/c2ju7ZaPL0-yUs004LbtgaqrGNaoYHh_Ic2xRWJr7Y0/rs:fit:520:520:1/g:ce/aHR0cDovL3d3dy5o/YWxsZXItc3RhaGx3/YXJlbi1zdGF0aWMu/ZGUvODQxODBfZy5q/cGc",
             "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Kamado Tanjiro"
         },
         {
             "id": 3,
+            "name": "Katana Agatsuma Zenitsu",
             "image": "https://img.search.brave.com/2Hh0u3eKXwJOiWjrOIUq0By0tySs4Mm40RPcGsw6GpI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9rbngu/Y29tLnNnL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA5L0FN/UzAxOTctMi5qcGc",
             "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Agatsuma Zenitsu"
         },
         {
             "id": 4,
+            "name": "Katana Hashibira Inosuke",
             "image": "https://img.search.brave.com/0IN9JO9R7oPdtrZ7P_nNW92EuSqPMicqLL0tDLNna6k/rs:fit:500:500:1/g:ce/aHR0cHM6Ly9kZW1v/bnNsYXllci5mci93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/MC9LYXRhbmFfSW5v/c3VrZV9EZW1vbl9T/bGF5ZXJfS2ltZXRz/dV9ub19ZYWliYS5w/bmc",
-            "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: hashibira Inosuke"
+            "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Hashibira Inosuke"
         },
         {
             "id":5,
+            "name": "Katana Tomioka Giyu",
             "image":"https://img.search.brave.com/kKuZuryESaSbO0JmJIQHXNdosG8Czon206vnF0E9Dxs/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2NhL2Q1/LzZhL2NhZDU2YWFh/OTUxNmE2MDdmYTVl/ZDNlN2E0YTQ5YWU1/LmpwZw",
             "description":"Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Tomioka Giyu"
         },
         {
             "id": 6,
+            "name": "Katana Shinobu Kocho",
             "image":"https://img.search.brave.com/JhRkRlw18RUZkXob9axbeLRJPEdfK8CYwYBYFewL8gM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9rbngu/Y29tLnNnL3Byb2R1/Y3Qva2ltZXRzdS1u/by15YWliYS1zaGlu/b2J1LWtvY2hvLWth/dGFuYS9BTVMwMTk0/LTIuanBn",
             "description":"Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Shinobu Kocho"
         },
         {
             "id": 7,
+            "name": "Katana Obanai Iguro",
             "image": "https://img.search.brave.com/UbQ1oRM8aJIVEA54yLTyALGtFKk-Uad1LDdNlaVYLvk/rs:fit:500:500:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAz/NDgvNzU4My80NDEy/L3Byb2R1Y3RzL0th/dGFuYV9JZ3Vyb19P/YmFuYWlfRGVtb25f/U2xheWVyX0tpbWV0/c3Vfbm9fWWFpYmFf/MTAyNHgxMDI0LnBu/Zz92PTE1ODU3NDg0/MTA",
             "description":"Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Obanai Iguro"
         },
         {
             "id": 8,
+            "name": "Katana Kokushibo",
             "image": "https://img.search.brave.com/0CsVsLaxw74pbFiu1ewZi_FFkpLC2gxmPQUlWLqvNGk/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4u/d2Vic2hvcGFwcC5j/b20vc2hvcHMvMzA1/NDQwL2ZpbGVzLzM0/NzQ2NDYzOC9kZW1v/bi1zbGF5ZXItdHdl/bHZlLWtpenVraS1r/b2t1c2hpYm8tZmxl/c2gtc3dvcmQuanBn",
             "description": "Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Kokushibo"
         },
         {
             "id": 9,
+            "name": "Katana Tsugikuni Yoriichi",
             "image":"https://img.search.brave.com/Yws1QcOUOqOmCkgFRancglUNKGg6ur6lzmtRF9Znmzw/rs:fit:768:768:1/g:ce/aHR0cHM6Ly9rbngu/Y29tLnNnL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzAyL01J/UzAzMjAtMi03Njh4/NzY4LmpwZw",
             "description":"Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Tsugikuni Yoriichi"
         },
         {
             "id": 10,
+            "name": "Katana Shinazugawa Sanemi",
             "image":"https://img.search.brave.com/aeYbCAxmvR_WZ2I4L6cM07pfzMZUKv5X32kBsz41bdc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1zZDJy/YjJqcG16L2ltYWdl/cy9zdGVuY2lsLzEy/ODB4MTI4MC9wcm9k/dWN0cy80Nzc5Lzg2/MTIvMzAxNS0yX185/NzU0OS4xNTgwNjcw/OTIwLmpwZz9jPTI",
             "description":"Réplicata de sabre japonais du personnage de l'animé Demon Slayer: Shinazugawa Sanemi"
         }

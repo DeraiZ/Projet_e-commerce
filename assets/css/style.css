@@ -48,3 +48,14 @@ form{
     color: white;
 }
 
+.commander button{
+    background-color: #EF1C26;
+    font-family:'Blood Crow';
+    color: white;
+    font-size: 50px;
+}
+
+.shopping{
+    background-color: #EF1C26;
+    border: none;
+}
